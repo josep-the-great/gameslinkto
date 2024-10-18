@@ -23,7 +23,7 @@ sections:
         actions:
           - type: Button
             label: Open selenite.
-            url: 'https://docs.netlify.com/visual-editor/overview/'
+            url: 'https://se.josephtylerthomas.com'
       - type: Card
         title: Second Card Title
         image:
