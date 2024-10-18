@@ -12,7 +12,7 @@ sections:
     subtitle: View Games Below
     items:
       - type: Card
-        title: NEW -
+        title: "NEW -\_selenite."
         image:
           type: Image
           url: /images/nextjs.svg
