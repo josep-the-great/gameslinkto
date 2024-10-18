@@ -8,7 +8,7 @@ sections:
     text: ''
     actions: []
   - type: CardsSection
-    title: Cards Section Component
+    title: Games
     subtitle: Section subtitle here
     items:
       - type: Card
