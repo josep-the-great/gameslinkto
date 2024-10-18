@@ -15,7 +15,7 @@ sections:
         title: "NEW -\_selenite."
         image:
           type: Image
-          url: /images/nextjs.svg
+          url: /images/Untitled design.png
           altText: First item image
         text: >
           Selenite is a game website that is hosted on The Joseph Tyler Thomas
