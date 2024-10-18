@@ -28,7 +28,7 @@ sections:
         title: NettleWeb
         image:
           type: Image
-          url: /images/Untitled design.png
+          url: /images/Untitled design (1).png
           altText: Second item image
         text: >+
           NettleWeb is a game website that is hosted on The Joseph Tyler Thomas
