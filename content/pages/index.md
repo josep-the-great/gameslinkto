@@ -37,7 +37,7 @@ sections:
         actions:
           - type: Button
             label: Open NettleWeb
-            url: 'https://docs.netlify.com/visual-editor/overview/'
+            url: 'https://nw.josephtylerthomas.com'
       - type: Card
         title: Coming Soon!
         image:
