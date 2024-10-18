@@ -25,7 +25,7 @@ sections:
             label: Open selenite.
             url: 'https://se.josephtylerthomas.com'
       - type: Card
-        title: Second Card Title
+        title: NettleWeb
         image:
           type: Image
           url: /images/mui-5.svg
