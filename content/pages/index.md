@@ -36,7 +36,7 @@ sections:
 
         actions:
           - type: Button
-            label: ''
+            label: Open NettleWeb
             url: 'https://docs.netlify.com/visual-editor/overview/'
       - type: Card
         title: Coming Soon!
