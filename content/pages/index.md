@@ -30,11 +30,10 @@ sections:
           type: Image
           url: /images/mui-5.svg
           altText: Second item image
-        text: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat.
+        text: >+
+          NettleWeb is a game website that is hosted on The Joseph Tyler Thomas
+          Company cloud with 3000+ games and 10 apps.
+
         actions:
           - type: Button
             label: Read the Docs
