@@ -6,13 +6,7 @@ sections:
     title: Welcome!
     subtitle: Scroll down to view games
     text: ''
-    actions:
-      - type: Button
-        label: Read the Docs
-        url: 'https://docs.netlify.com/visual-editor/overview/'
-        size: large
-        variant: outlined
-        color: primary
+    actions: []
     image:
       type: Image
       url: /images/hero.svg
