@@ -22,7 +22,7 @@ sections:
           Company cloud with 427 games and 15 apps.
         actions:
           - type: Button
-            label: Read the Docs
+            label: Open selenite.
             url: 'https://docs.netlify.com/visual-editor/overview/'
       - type: Card
         title: Second Card Title
