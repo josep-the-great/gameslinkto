@@ -42,7 +42,7 @@ sections:
         title: Coming Soon!
         image:
           type: Image
-          url: /images/ts.svg
+          url: /images/Untitled design (2).png
           altText: Third item image
         text: >
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
