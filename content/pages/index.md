@@ -9,7 +9,7 @@ sections:
     actions: []
   - type: CardsSection
     title: Games
-    subtitle: Section subtitle here
+    subtitle: View Games Below
     items:
       - type: Card
         title: First Card Title
