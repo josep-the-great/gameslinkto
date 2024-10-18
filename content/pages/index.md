@@ -55,5 +55,5 @@ sections:
         actions:
           - type: Button
             label: What does this button do?
-            url: 'https://docs.netlify.com/visual-editor/overview/'
+            url: 'https://www.youtube.com/watch?v=xvFZjo5PgG0'
 ---
