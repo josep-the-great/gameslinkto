@@ -12,7 +12,7 @@ sections:
     subtitle: View Games Below
     items:
       - type: Card
-        title: First Card Title
+        title: NEW -
         image:
           type: Image
           url: /images/nextjs.svg
