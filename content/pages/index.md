@@ -18,8 +18,8 @@ sections:
           url: /images/nextjs.svg
           altText: First item image
         text: >
-          Selenite is a game website with 427 games and 15 apps hosted on The
-          Joseph Tyler Thomas Company cloud.
+          Selenite is a game website that is hosted on The Joseph Tyler Thomas
+          Company cloud with 427 games and 15 apps.
         actions:
           - type: Button
             label: Read the Docs
